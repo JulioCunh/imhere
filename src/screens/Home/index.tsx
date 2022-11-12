@@ -28,8 +28,6 @@ export function Home() {
         }
       
     ])
-    
-    console.log(`remove ${name})`) ;
   }
 
   return (
